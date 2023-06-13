@@ -15,7 +15,6 @@ If you find this work helpful, we kindly request that citations refer to the arX
       eprint={2306.06252},
       archivePrefix={arXiv},
       primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2306.06252},
-      note={Alex Reneau and Jerry Yao-Chieh Hu contributed equally to this work}
+      url={https://arxiv.org/abs/2306.06252}
  }
  ```
