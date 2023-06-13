@@ -1,6 +1,6 @@
 # FeatureProgramming
 
-This repository packages the code for the experiments found in [_Feature Programming For Multivariate Time Series Prediction_](arxiv link to paper). 
+This repository packages the code for the experiments found in [_Feature Programming For Multivariate Time Series Prediction_](https://arxiv.org/abs/2306.06252).
 
 The code will be available soon. Thank you for your patience!
 
